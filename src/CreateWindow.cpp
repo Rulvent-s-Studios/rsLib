@@ -96,5 +96,5 @@ float rsLib::CreateWindow::getFps()
 	}
 
 	++frame;
-	return fps;
+	return (float)fps; // casting into float because unsigned int warning
  }
