@@ -10,7 +10,4 @@
 #include "NewTextBox.h"
 #include "newLabel.h"
 #include "Math.h"
-
-/* Rulvent Studios! */
-// Rulvent's studio inhouse engine created with CPP and SFML  
-// Please do not LEAK this till the engine becomes opensourced.
+ 
