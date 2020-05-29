@@ -79,7 +79,7 @@ int main() {
 - Published rsLib v1.1
 	Releasing: an small physics engine and circle collisions!
 
-- Gone Public Sourced!
+- Gone Open Sourced!
 
 Rulvent Studios
 
