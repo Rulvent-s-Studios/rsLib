@@ -12,9 +12,7 @@
 #include "Math.h"
 #include "PhysicsEngine.h"
 
-/* Rulvent Studios! */
-// Rulvent's studio inhouse engine created with CPP and SFML  
-// Please do not LEAK this till the engine becomes opensourced.
+ 
 
 // versions pushed -> v1.0
 // versions pushed -> v1.1
