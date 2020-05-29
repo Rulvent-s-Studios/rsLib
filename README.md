@@ -68,16 +68,19 @@ int main() {
 
 `Math` - Math functions that can be used native to regular cpp files. (with out any libraries)
 
+`PhysicsEngine` - small physics engine
+
+
 # ChangeLogs:
 - published rsLib v1.0
 
 - Updated README.MD
 
+- Published rsLib v1.1
+	Releasing: an small physics engine and circle collisions!
 
 
 Rulvent Studios
 
 
 
-
- 
